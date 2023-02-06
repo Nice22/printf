@@ -1,4 +1,7 @@
 #include "main.h"
+#include <stdarg.h>
+#include <stdio.h>
+#include <unistd.h>
 /* @zinzinpolice/@nck */
 void print_buffer(char buffer[], int *buff_ind);
 
